@@ -173,3 +173,7 @@ RETURN caminho
 
 ![image alt](https://github.com/PedroLPfelipe/Social-Midia-System-with-Neo4j/blob/0a882405b194a5692884f9f31c76082e2058212f/shortest_path_all.png)
 -
+
+Usando o [Neo4j](https://neo4j.com) e a linguagem Cypher, conseguimos explorar como uma startup de Social Media pode escalar suas análises sem perder performance. Através de queries de centralidade e afinidade, são feitas recomendações personalizadas, possibilitando a identificação de "bolhas" de interesse e, dessa forma, transformando dados brutos em insights estratégicos para o engajamento da plataforma.
+
+![image alt](https://github.com/PedroLPfelipe/Social-Midia-System-with-Neo4j/blob/8a2d8d774b2a0666a01d89a9701956d119561efe/graph_visualization.png)

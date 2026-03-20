@@ -95,7 +95,7 @@ LIMIT 3
 
 ___________________________________________________
 
-**Qual a ordem dos usuários indo do meno influentes até o mais influente?**
+**Qual a ordem dos usuários indo do menos influentes até o mais influente?**
 
 MATCH (u:User)
 
